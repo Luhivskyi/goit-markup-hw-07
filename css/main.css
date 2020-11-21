@@ -175,7 +175,7 @@ body {
 
 .phone-link {
   text-decoration: none;
-  color: #212121;
+  color: #757575;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -188,7 +188,7 @@ body {
 
 .envelope-link {
   text-decoration: none;
-  color: #212121;
+  color: #757575;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -778,6 +778,10 @@ body {
 
 .footer-link:hover, .footer-link:focus {
   color: #2196f3;
+}
+
+.footer-box {
+  width: 231px;
 }
 
 /* Стилі для portfolio.html*/

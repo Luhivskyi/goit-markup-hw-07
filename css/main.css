@@ -1342,8 +1342,8 @@ body {
   right: 13px;
   width: 24px;
   height: 24px;
-  -webkit-transform: translate(-1150%, 50%);
-          transform: translate(-1150%, 50%);
+  -webkit-transform: translate(-1150%, -110%);
+          transform: translate(-1150%, -110%);
   fill: #ffffff;
 }
 
